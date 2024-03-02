@@ -1,6 +1,6 @@
 # Примычание:
-dependencies-зависимости
-devDependencies-зависимости в режиме разработки
+## dependencies-зависимости
+## devDependencies-зависимости в режиме разработки
 
 =================================================
 
@@ -30,8 +30,8 @@ devDependencies-зависимости в режиме разработки
     "react-hook-form": "^7.50.0",
     "react-icons": "^5.0.1",
     "react-router": "^6.22.0"
-  },
-  "devDependencies": {
+  }
+## "devDependencies": {
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
