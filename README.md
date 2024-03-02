@@ -1,11 +1,11 @@
-Примычание:
-#dependencies-зависимости
-#devDependencies-зависимости в режиме разработки
+#Примычание:
+dependencies-зависимости
+devDependencies-зависимости в режиме разработки
 
 =================================================
 
 
-##"dependencies": {
+#"dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.1",
@@ -17,7 +17,7 @@
     "sequelize": "^6.35.2",
     "uuid": "^9.0.1"
   },
-##"devDependencies": {
+#"devDependencies": {
     "nodemon": "^3.0.3"
 }
 ==================================
