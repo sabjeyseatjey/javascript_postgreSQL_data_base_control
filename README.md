@@ -61,8 +61,8 @@
 ## Для клиентской части:
 - npm create vite@latest
 - Project name: project-name
-- >> React
-- >> JavaScript
+- >>React
+- >>JavaScript
 
 ## Для установки библиотеки tailwindcss:
 https://tailwindcss.com/docs/guides/vite
